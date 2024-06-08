@@ -10,9 +10,9 @@ position: fixed;
 inset:0;
 object-fit: cover;
 background-size: cover;
-background-position: center;
 width: 130vw;
 opacity: 0.5;
 background: url('https://github.com/cobalamin/cobalamin/blob/main/b2.png?raw=true');
+background-position: center;
 "]{}
 ```
