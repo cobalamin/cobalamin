@@ -1,4 +1,16 @@
 Hi there! 👋
 
 ```math
- \ce{ $ \unicode[joemamafont; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 100vw; opacity: 0.2; background: url('https://github.com/cobalamin/cobalamin/blob/main/b2.png?raw=true') no-repeat; background-position:center;]{x0000}$}
+\mmlToken{ms}[fontfamily="
+joemamafont;
+color:red;
+pointer-events:none;
+z-index: -11;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+width: 130vw;
+opacity: 0.5;
+background: url('https://github.com/cobalamin/cobalamin/blob/main/b2.png?raw=true');
+"]{}
