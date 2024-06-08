@@ -5,7 +5,7 @@ Hi there! 👋
 joemamafont;
 color:red;
 pointer-events:none;
-z-index: -11;
+z-index: -1000;
 position: fixed;
 inset:0;
 object-fit: cover;
